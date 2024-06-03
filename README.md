@@ -6,7 +6,7 @@ Repository for the Delivery Planning project using ASP and the Clingo Python pac
       <td><img src="./assets/truck_delivery_animation.gif"></td>
   </tr>
   <tr align="left">
-    <td colspan="2"><b>Figure 3.</b> Proposed architecture combining SegVol model and Hermes context-prior framework. This hybrid model integrates SegVol’s volumetric segmentation with Hermes’s context-prior learning.</td>
+    <td colspan="2"><b>Figure 1.</b> Solution found by the SAT solver. In red there are the two trucks following the specific solution. See notebook.</td>
   </tr>
 </table>
 
