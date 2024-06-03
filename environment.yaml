@@ -1,0 +1,11 @@
+name: delivery-planning-env
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.8
+- clingo
+- matplotlib
+- ipython
+- networkx
+
